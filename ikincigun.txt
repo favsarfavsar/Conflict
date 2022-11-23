@@ -2,3 +2,4 @@ sabiha branch'i deneme
 master branch'i deneme
 sabiha branch'i ilk deneme
 ucuncu gun ilk deneme
+ucuncu gun ikinci deneme
